@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Let's ho-for a picknick"
+        },
+        "description": {
+            "text": "Craft any Hot Air Balloon Basket"
+        },
+        "icon": {
+            "item": "minecraft:oak_log"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "recbask": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "hab:visual/credt"
+}

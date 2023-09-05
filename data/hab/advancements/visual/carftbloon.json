@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Hover me to the moon"
+        },
+        "description": {
+            "text": "Craft any Hot Air Balloon"
+        },
+        "icon": {
+            "item": "minecraft:white_wool"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "recbloon": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "hab:visual/credt"
+}

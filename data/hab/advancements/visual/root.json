@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Hot Air Ballons"
+        },
+        "description": {
+            "text": "Float through the air!"
+        },
+        "icon": {
+            "item": "minecraft:red_wool"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

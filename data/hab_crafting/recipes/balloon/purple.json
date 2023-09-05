@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WDW",
+        "CSC"
+    ],
+    "key": {
+        "W": {
+            "tag": "hab_crafting:purple"
+        },
+        "D": {
+            "item": "minecraft:dispenser"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "C": {
+            "item": "minecraft:chain"
+        }
+    },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LML",
+        "LCL",
+        "LIL"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:hopper_minecart"
+        },
+        "L": {
+            "item": "minecraft:birch_log"
+        },
+        "C": {
+            "item": "minecraft:campfire"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        }
+    },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

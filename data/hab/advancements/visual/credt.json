@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": {
+            "text": "A Datapack by imalittlhigh"
+        },
+        "description": {
+            "text": "www.planetminecraft.com/member/imalittlhigh",
+            "italic": true
+        },
+        "icon": {
+            "item": "minecraft:dragon_breath"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "hab:visual/root"
+}

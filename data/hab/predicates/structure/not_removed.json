@@ -1,0 +1,635 @@
+{
+    "condition": "minecraft:all_of",
+    "terms": [
+        {
+            "condition": "minecraft:location_check",
+            "offsetX": 1,
+            "offsetY": 1,
+            "offsetZ": 0,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:lever"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": -1,
+            "offsetY": 1,
+            "offsetZ": 0,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:lever"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": 0,
+            "offsetY": 1,
+            "offsetZ": 1,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:lever"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": 0,
+            "offsetY": 1,
+            "offsetZ": -1,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:lever"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": 1,
+            "offsetY": 2,
+            "offsetZ": 0,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:barrier"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": -1,
+            "offsetY": 2,
+            "offsetZ": 0,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:barrier"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": 0,
+            "offsetY": 2,
+            "offsetZ": 1,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:barrier"
+                  ]
+              }
+            }
+          },{
+            "condition": "minecraft:location_check",
+            "offsetX": 0,
+            "offsetY": 2,
+            "offsetZ": -1,
+            "predicate": {
+              "block": {
+                "blocks": [
+                    "minecraft:barrier"
+                  ]
+              }
+            }
+          },{
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:hopper"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -1,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lightning_rod"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -3,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lightning_rod"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -3,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lightning_rod"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -3,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lightning_rod"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -3,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lightning_rod"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -4,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lantern"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -4,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lantern"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -4,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lantern"
+              ]
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -4,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "blocks": [
+                "minecraft:lantern"
+              ]
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -3,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -3,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -3,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -3,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -3,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -3,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -3,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -3,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -3,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -3,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -3,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -3,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -4,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -4,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -4,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -4,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -4,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -4,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -4,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -4,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetY": -4,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -4,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -4,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetY": -4,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -4,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -4,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetY": -4,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+     
+     
+     
+     
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -4,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -4,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetY": -4,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -4,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -4,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": -5,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      }
+    ]
+  }
+  

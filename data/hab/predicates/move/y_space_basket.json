@@ -1,0 +1,292 @@
+{
+    "condition": "minecraft:all_of",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -2,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },{
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -1,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },{
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },{
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 1,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },{
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetZ": -2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetZ": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetZ": 1,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 2,
+        "offsetZ": 2,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 3,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": -3,
+        "offsetZ": 0,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": 3,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetZ": -3,
+        "predicate": {
+          "block": {
+            "tag": "hab:air_like"
+          }
+        }
+      }
+    ]
+  }
+  

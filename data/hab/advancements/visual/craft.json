@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Crafting and Controls"
+        },
+        "description": {
+            "text": "/trigger hotairballons_help"
+        },
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "hab:visual/root"
+}

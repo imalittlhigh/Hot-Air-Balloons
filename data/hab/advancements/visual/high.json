@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Where is it?"
+        },
+        "description": {
+            "text": "Reach for the moon"
+        },
+        "icon": {
+            "item": "minecraft:diorite"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {
+        "wher": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "hab:visual/carftbloon"
+}

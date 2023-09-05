@@ -1,0 +1,17 @@
+{
+    "condition": "minecraft:all_of",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "block": {
+            "blocks": [
+              "minecraft:hopper"
+            ],
+            "nbt": "{Items:[{Slot: 3b, id: \"minecraft:coal\"}]}"
+          }
+        }
+      }
+    ]
+  }
+  

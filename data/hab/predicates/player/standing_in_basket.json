@@ -1,0 +1,23 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+      {
+        "condition": "minecraft:location_check",
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      },
+      {
+        "condition": "minecraft:location_check",
+        "offsetY": -1,
+        "predicate": {
+          "block": {
+            "tag": "hab:basket_materials"
+          }
+        }
+      }
+    ]
+  }
+  

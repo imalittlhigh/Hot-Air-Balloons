@@ -1,0 +1,14 @@
+{
+    "values": [
+      "#minecraft:planks",
+      "#minecraft:wooden_slabs",
+      "#minecraft:wooden_trapdoors",
+      "minecraft:lantern",
+      "minecraft:lightning_rod",
+      "minecraft:hopper",
+      "minecraft:lever",
+      "minecraft:barrier",
+      "minecraft:ladder"
+    ]
+  }
+  

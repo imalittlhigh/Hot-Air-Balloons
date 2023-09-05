@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "hab_crafting:balloon/blue"
+            }
+        }
+    },
+    "rewards": {
+        "function": "hab_crafting:crafted/balloon/blue"
+    }
+}

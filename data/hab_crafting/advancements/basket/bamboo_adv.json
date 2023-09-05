@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "hab_crafting:basket/bamboo"
+            }
+        }
+    },
+    "rewards": {
+        "function": "hab_crafting:crafted/basket/bamboo"
+    }
+}

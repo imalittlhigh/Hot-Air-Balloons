@@ -1,0 +1,4 @@
+{
+    "replace": false,
+    "values": ["minecraft:air", "minecraft:cave_air","minecraft:grass","#flowers","minecraft:vine","minecraft:barrier"]
+}
