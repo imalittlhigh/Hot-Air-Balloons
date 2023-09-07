@@ -1,9 +1,9 @@
 {
     "criteria": {
         "Unlocked": {
-            "trigger": "minecraft:recipe_unlocked",
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe": "hab_crafting:basket/crimson"
+                "recipe_id": "hab_crafting:basket/crimson"
             }
         }
     },

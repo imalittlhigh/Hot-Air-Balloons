@@ -59,4 +59,9 @@ create tut book
 ## done
 copy middle from white to all other colours
 
+## done
 remove says from functions and replace with other things?
+
+
+remove basket pred from balloon pred when going down
+

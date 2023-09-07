@@ -6,7 +6,7 @@
 ##
 
 #revoking the recipe
-recipe take @s hab_crafting:basket/acacia
+#recipe take @s hab_crafting:basket/acacia
 
 #revoking the advancement
 advancement revoke @s only hab_crafting:basket/acacia_adv

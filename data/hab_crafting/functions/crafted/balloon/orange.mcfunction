@@ -6,7 +6,7 @@
 ##
 
 #revoking the recipe
-recipe take @s hab_crafting:balloon/orange
+#recipe take @s hab_crafting:balloon/orange
 
 #revoking the advancement
 advancement revoke @s only hab_crafting:balloon/orange_adv
